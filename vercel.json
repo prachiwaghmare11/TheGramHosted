@@ -10,7 +10,7 @@
         }
     ],
      "rewrites": [
-          { "source": "/(.*)", "dest": "/" }
+          { "source": "/(.*)", "destination": "/" }
         ]
       
 }
